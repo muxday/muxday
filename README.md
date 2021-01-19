@@ -1,5 +1,5 @@
 ### You know me, but you didn't know me.
-# I've switched over to [this](/dmimukto) Github account.
+# I've switched over to [this](../dmimukto) Github account.
 <!--
 **muxday/muxday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
